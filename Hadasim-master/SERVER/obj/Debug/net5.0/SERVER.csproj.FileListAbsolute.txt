@@ -1,0 +1,140 @@
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.exe
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.deps.json
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.json
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.dev.json
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SERVER.pdb
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\DnsClient.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\Snappier.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\USER\Downloads\TheServer\SERVER\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfo.cs
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.sourcelink.json
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\scopedcss\bundle\SERVER.styles.css
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Pack.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.SERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.build.SERVER.props
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SERVER.props
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SERVER.props
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.csproj.Up2Date
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.dll
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\refint\SERVER.dll
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.pdb
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\SERVER.genruntimeconfig.cache
+C:\Users\USER\Downloads\TheServer\SERVER\obj\Debug\net5.0\ref\SERVER.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.exe
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.deps.json
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.json
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.dev.json
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SERVER.pdb
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\DnsClient.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\Snappier.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\USER\Downloads\Hadasim\SERVER\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfo.cs
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.sourcelink.json
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\scopedcss\bundle\SERVER.styles.css
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Manifest.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Pack.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.SERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.build.SERVER.props
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SERVER.props
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SERVER.props
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.csproj.Up2Date
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\refint\SERVER.dll
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.pdb
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\SERVER.genruntimeconfig.cache
+C:\Users\USER\Downloads\Hadasim\SERVER\obj\Debug\net5.0\ref\SERVER.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\appsettings.json
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.exe
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.deps.json
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.json
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.runtimeconfig.dev.json
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SERVER.pdb
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\DnsClient.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\Snappier.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.csproj.AssemblyReference.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.AssemblyInfo.cs
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.RazorTargetAssemblyInfo.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\scopedcss\bundle\SERVER.styles.css
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Manifest.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\SERVER.StaticWebAssets.Pack.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.SERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.build.SERVER.props
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SERVER.props
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SERVER.props
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.csproj.Up2Date
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\refint\SERVER.dll
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.pdb
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\SERVER.genruntimeconfig.cache
+C:\Users\sarit\OneDrive\שולחן העבודה\הדסים 4\Hadasim-master\SERVER\obj\Debug\net5.0\ref\SERVER.dll

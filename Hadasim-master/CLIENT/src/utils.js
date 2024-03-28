@@ -1,0 +1,1 @@
+export const CustomerApi = "http://localhost:2659/api/customer"
