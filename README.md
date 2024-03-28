@@ -38,4 +38,4 @@
 npm i ולאחר מכן npm start
 
 **תרגיל 2**
-ניתוב לצפייה בקוד התרגיל:Twitter Tower - ConcoleApp2 - Program.cs
+ניתוב לצפייה בקוד התרגיל:Twitter Tower / ConcoleApp2 / Program.cs
