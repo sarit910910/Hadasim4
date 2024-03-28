@@ -33,6 +33,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 פרטים על הפרויקט: את צד השרת(SERVER) כתבתי ב-Visual Studio בשפת #C ואת צד הלקוח(CLIENT) ב-Visual Studio Code ב-React,
 כדי להפעיל את הפרויקט צריך להריץ את השרת ובמקביל להריץ את הלקוח כך: לכתוב ב- Terminal : 
 npm i ולאחר מכן npm start
